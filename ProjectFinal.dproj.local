@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/10 08:13:09.000.835,=C:\Users\Beto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 08:16:53.000.700,C:\Users\Beto\Desktop\ProjetoFinal\UnitLogin.fmx=C:\Users\Beto\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/10 08:16:53.000.700,C:\Users\Beto\Desktop\ProjetoFinal\UnitLogin.pas=C:\Users\Beto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/10 08:17:09.000.469,C:\Users\Beto\Desktop\ProjetoFinal\ProjectFinal.dproj=C:\Users\Beto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/10 16:55:36.000.387,=C:\Users\Beto\Desktop\ProjetoFinal\Units\u99Permissions.pas</Transaction>
+    <Transaction>2022/10/14 19:12:38.000.988,=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 19:13:03.000.419,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UnitSplash.fmx=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.fmx</Transaction>
+    <Transaction>2022/10/14 19:13:03.000.419,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UnitSplash.pas=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 20:17:14.000.565,=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 20:17:35.000.436,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\OpenURL.pas</Transaction>
+    <Transaction>2022/10/14 20:21:30.000.694,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\OpenURL.pas=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UOpenURL.pas</Transaction>
+    <Transaction>2022/10/14 20:24:07.000.880,=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\OpenURL.pas</Transaction>
+    <Transaction>2022/10/14 20:24:56.000.028,=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 20:25:06.000.766,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UOpenURL.pas=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 20:25:56.000.070,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\OpenURL.pas=</Transaction>
+    <Transaction>2022/10/14 20:26:06.000.169,D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UOpenURL.pas=</Transaction>
+    <Transaction>2022/10/14 20:26:33.000.039,=D:\Users\rasouza4\Desktop\Desktop1410\ProjetoFinal\UOpenURL.pas</Transaction>
+    <Transaction>2022/10/28 18:58:56.000.598,=D:\Users\rasouza4\Desktop\ProjetoFinal\Unit1.pas</Transaction>
+    <Transaction>2022/10/28 18:59:28.000.660,D:\Users\rasouza4\Desktop\ProjetoFinal\Unit1.pas=D:\Users\rasouza4\Desktop\ProjetoFinal\UnitGPS.pas</Transaction>
+    <Transaction>2022/10/28 18:59:28.000.660,D:\Users\rasouza4\Desktop\ProjetoFinal\Unit1.fmx=D:\Users\rasouza4\Desktop\ProjetoFinal\UnitGPS.fmx</Transaction>
+    <Transaction>2022/11/13 18:27:47.000.847,=C:\Users\Souza\Downloads\ProjetoFinal2810\Unit1.pas</Transaction>
+    <Transaction>2022/11/13 18:28:32.000.217,C:\Users\Souza\Downloads\ProjetoFinal2810\UnitDistancia.pas=C:\Users\Souza\Downloads\ProjetoFinal2810\Unit1.pas</Transaction>
+    <Transaction>2022/11/13 18:28:32.000.217,C:\Users\Souza\Downloads\ProjetoFinal2810\UnitDistancia.fmx=C:\Users\Souza\Downloads\ProjetoFinal2810\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

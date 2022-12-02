@@ -1,0 +1,143 @@
+object FrmSplash: TFrmSplash
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 520
+  ClientWidth = 360
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnShow = FormShow
+  DesignerMasterStyle = 0
+  object LayoutAtualilizacao: TLayout
+    Align = Client
+    Size.Width = 360.000000000000000000
+    Size.Height = 520.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object LayoutAtualizar: TLayout
+      Align = Bottom
+      Position.Y = 464.000000000000000000
+      Size.Width = 360.000000000000000000
+      Size.Height = 56.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Rectangle1: TRectangle
+        Align = Client
+        Fill.Color = claDodgerblue
+        Size.Width = 360.000000000000000000
+        Size.Height = 56.000000000000000000
+        Size.PlatformDefault = False
+        object lbl_atualizar: TLabel
+          Align = Client
+          StyledSettings = [Family, FontColor]
+          Size.Width = 360.000000000000000000
+          Size.Height = 56.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 20.000000000000000000
+          TextSettings.Font.StyleExt = {00060000000000000004000000}
+          TextSettings.HorzAlign = Center
+          Text = 'Atualizar'
+          TabOrder = 0
+          OnClick = lbl_atualizarClick
+        end
+      end
+    end
+    object Layout2: TLayout
+      Align = Center
+      Size.Width = 260.000000000000000000
+      Size.Height = 345.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object lbl_nova_versao: TLabel
+        Align = Bottom
+        StyledSettings = [Family, FontColor]
+        Position.Y = 213.000000000000000000
+        Size.Width = 260.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.Font.StyleExt = {00060000000000000004000000}
+        TextSettings.HorzAlign = Center
+        Text = 'Nova vers'#227'o disponivel'
+        TabOrder = 0
+      end
+      object Label2: TLabel
+        Align = Bottom
+        StyledSettings = [Family, Size, FontColor]
+        Margins.Bottom = 50.000000000000000000
+        Position.Y = 254.000000000000000000
+        Size.Width = 260.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.StyleExt = {00060000000000000004000000}
+        TextSettings.HorzAlign = Center
+        Text = 
+          'Clique no bot'#227'o abaixo para receber a nova atualiza'#231#227'o para seu ' +
+          'aplicativo.'
+        TabOrder = 1
+      end
+      object ImageFlecha: TImage
+        MultiResBitmap = <
+          item
+            Width = 100
+            Height = 100
+            PNG = {
+              89504E470D0A1A0A0000000D494844520000006400000064080600000070E295
+              54000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+              032149444154785EED9DC96A14511885E380E3525C8AA8200AA22208222EC49D
+              0BC185EFE0C328A81BDFC2854870DABA70A10B07C4177015079C7040A2E73455
+              7273F3575755A7AAFA74F7F9E0E3D249A592DCAF3BA974AA6E2F19638C31663E
+              D8528CB3CE5EB803FE18DD3253E30C7C0657E15FF81C9E83660A9C823F2143A4
+              F26DA7A11998FB308F51FA089A81F900A318F43B9C493615E32CC2891FC74C7E
+              6F9B8BD188E020623888180E22868388E120623888180E22868388E120623888
+              180E22868388E120623888180E22868388E120623888180E22868388E1206238
+              88180E22868388E120623888180E22868388E120623888180E22868388E12062
+              3888180E22868388E12062A804390E9721AF2FFF06EFC043B02F0E427E8EAF90
+              EBA370118213D08093F00BCC2FFE7F0FB97C4615F9F6B955709FDC77BE3DEF0C
+              8E021EC27C724AB95A43559468FBD408EE6BDC0A108FE142B315460BC8A45645
+              89B64DCDA98B417FC385FEBDCAE52F7EC1687252A328D176A9294D6250DE39E6
+              650DB1895986D1E4E4E651A26D524B9AC6A0FC5A169E23F0338C2628378D12BD
+              3F95B489C1038BA3D080B3303AD28AFC04B94059F4BE541EBD454753913CD43E
+              0F4D0297E6E3DF05D184E536B9D7377D64F0737A59C00ADA3C52BAD08F8C060C
+              15C5315AD07714C79880BEA238C606E83A8A63744057511CA343361AC5317A60
+              D2288ED1236DA338C600348DE218035217C531A6405514C798227914C710A08C
+              321731A25710E03D6D1C8AAF3A503E7DFEA4189568359FF312449956F3E93317
+              C57010311C440C0711C341C47010311C440C0711C341C48882FC29C62AB615A3
+              A967573156C133FFD71005F9588C55EC2F4653CF8162AC82A7BBD6F202F2F997
+              2AEF425E13B81B9A989DF018BC07A3392C7D0A6BB90DA30FB6DD7B0DAE21FA91
+              C56BFECC30AC7B99F1E8A9745ED2F5061E1EDD327DF10AF2AA5F3E52FE135D4F
+              C70D56E095D12DD3079CE3ABF0EDE856436EC1F2679DEDD6EBB035BC64F9265C
+              85D14EED64DE809CDB89B9045FC268E7B6B9AFE1653896A6FF1FE77617E045C8
+              130AF6C13D703B34EBE10204FCA3EF1DE489170F208FA818C618638C31C60CCC
+              D2D23F54B657B040E0476E0000000049454E44AE426082}
+          end>
+        Align = Center
+        Margins.Top = 100.000000000000000000
+        Size.Width = 128.000000000000000000
+        Size.Height = 92.000000000000000000
+        Size.PlatformDefault = False
+      end
+    end
+  end
+  object RESTClient1: TRESTClient
+    BaseURL = 'https://projetofinaldelphi-default-rtdb.firebaseio.com/AppViagem'
+    Params = <>
+    Left = 48
+    Top = 16
+  end
+  object RESTRequest1: TRESTRequest
+    Client = RESTClient1
+    Params = <>
+    Resource = 'AppViagem.json'
+    Response = RESTResponse1
+    Left = 50
+    Top = 91
+  end
+  object RESTResponse1: TRESTResponse
+    Left = 58
+    Top = 163
+  end
+end
